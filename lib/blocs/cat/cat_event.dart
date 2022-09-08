@@ -11,6 +11,3 @@ class LoadedNewCatFact extends CatFactsEvent {}
 
 /// [ErrorLoaded] event called when new fact loading throws error.
 class ErrorLoaded extends CatFactsEvent {}
-
-/// [OnInitLoaded] event called when onInit function was called.
-class OnInitLoaded extends CatFactsEvent {}
